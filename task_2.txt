@@ -1,1 +1,2 @@
-Problem 2: Creating and Switching Between Multiple Branches
+console.log(Hello!);
+console.log(SoftUni Git Course!);
