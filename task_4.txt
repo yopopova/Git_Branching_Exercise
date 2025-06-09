@@ -1,0 +1,4 @@
+1. Create a new branch feature-dashboard and make some commits.
+2. Delete the branch.
+3. Recover the branch.
+4. Verify that the lost changes have been restored.
