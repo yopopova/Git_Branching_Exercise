@@ -1,1 +1,2 @@
 Version 1
+Logging feature added
