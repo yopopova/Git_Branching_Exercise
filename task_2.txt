@@ -1,1 +1,3 @@
 Problem 2: Creating and Switching Between Multiple Branches
+3. Simulate an outdated local branch by having a teammate push a conflicting update.
+4. Attempt a force push and prevents overwriting others' changes.
