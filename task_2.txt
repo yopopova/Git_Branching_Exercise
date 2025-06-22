@@ -1,3 +1,2 @@
 Problem 2: Creating and Switching Between Multiple Branches
 1. Modify a file and commit the changes.
-2. Push the changes.
